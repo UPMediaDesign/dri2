@@ -12,9 +12,21 @@
             
 		</div>
 
-		<div class="col-md-10 col-md-offset-1 intro-content">
-			<img src="<?php echo $bg[0]?>" alt="<?php echo $post->post_title; ?>">
+    </div>
+</main>
+
+
+<div class="megacontainer">
+    <div class="row">
+
+        <div class="col-md-12 intro-content col-esp" style="background-image:url(<?php echo $bg[0]?>);background-size: cover; min-height: 320px; background-repeat: no-repeat; margin-top: 20px; background-position: center;">
 		</div>
+
+    </div>
+</div>
+
+<div class="container">
+    <div class="row">
 
 		<div class="col-md-8 col-md-offset-2 hard-content">
         	<?php echo $post->post_content?>
@@ -26,8 +38,9 @@
         	</div>
         	
         </div>
+
 	</div>
-</main>
+</div>
 
 
 

@@ -4,6 +4,18 @@
 		"selected_items":
 		[
 			[
+				"glob",
+				"globerbold"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"glober",
+				"globersemibold_free"
+			],
+			[
 				"border",
 				"border-top"
 			],
@@ -22,10 +34,6 @@
 			[
 				"single",
 				"single-news"
-			],
-			[
-				"font",
-				"font-size"
 			],
 			[
 				"area",
@@ -320,26 +328,10 @@
 	"buffers":
 	[
 		{
-			"file": "dri/index.php",
-			"settings":
-			{
-				"buffer_size": 7359,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "dri/page.php",
-			"settings":
-			{
-				"buffer_size": 1445,
-				"line_ending": "Unix"
-			}
-		},
-		{
 			"file": "dri/single-abogados.php",
 			"settings":
 			{
-				"buffer_size": 3037,
+				"buffer_size": 4052,
 				"line_ending": "Unix"
 			}
 		},
@@ -347,31 +339,7 @@
 			"file": "dri/style.css",
 			"settings":
 			{
-				"buffer_size": 40142,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "dri/page-abogados.php",
-			"settings":
-			{
-				"buffer_size": 3353,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "dri/header.php",
-			"settings":
-			{
-				"buffer_size": 5477,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "dri/header-insider.php",
-			"settings":
-			{
-				"buffer_size": 4029,
+				"buffer_size": 42008,
 				"line_ending": "Unix"
 			}
 		},
@@ -379,7 +347,23 @@
 			"file": "dri/page-areaspractica.php",
 			"settings":
 			{
-				"buffer_size": 4260,
+				"buffer_size": 4242,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "dri/page-abogados.php",
+			"settings":
+			{
+				"buffer_size": 3335,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "dri/page.php",
+			"settings":
+			{
+				"buffer_size": 1433,
 				"line_ending": "Unix"
 			}
 		}
@@ -408,6 +392,14 @@
 	},
 	"file_history":
 	[
+		"/Users/FrontUpmedia/Github/dri2/dri/index.php",
+		"/Users/FrontUpmedia/Github/dri2/dri/style.css",
+		"/Users/FrontUpmedia/Github/dri2/dri/page.php",
+		"/Users/FrontUpmedia/Github/dri2/dri/page-areaspractica.php",
+		"/Users/FrontUpmedia/Github/dri2/dri/header-insider.php",
+		"/Users/FrontUpmedia/Github/dri2/dri/single-areas.php",
+		"/Users/FrontUpmedia/Github/dri2/dri/page-abogados.php",
+		"/Users/FrontUpmedia/Github/dri2/dri/header.php",
 		"/Users/FrontUpmedia/Github/dri2/dri/index_.php",
 		"/Users/FrontUpmedia/Github/dri/dri/index.php",
 		"/Users/FrontUpmedia/Github/dri/dri/style.css",
@@ -527,15 +519,7 @@
 		"/Users/upmedia/Desktop/Sitio Alimentate Sano/recetas_plato_fondo.php",
 		"/Users/upmedia/Desktop/Sitio Alimentate Sano/noticias.php",
 		"/Users/upmedia/Desktop/Sitio Alimentate Sano/noticia_2014_diciembre_16_14.php",
-		"/Users/upmedia/Desktop/Sitio Alimentate Sano/noticia_2014_diciembre_09_14.php",
-		"/Users/upmedia/Desktop/Sitio Alimentate Sano/receta_de_la_semana_50.php",
-		"/Users/upmedia/Desktop/Sitio Alimentate Sano/noticia_2014_diciembre_08_14.php",
-		"/Users/upmedia/Desktop/Sitio Alimentate Sano/noticia_2014_noviembre_09_14.php",
-		"/Users/upmedia/Desktop/Sitio Alimentate Sano/noticia_2014_diciembre_01_14.php",
-		"/Users/upmedia/Desktop/Sitio Alimentate Sano/noticia_2014_octubre_11_11.php",
-		"/Users/upmedia/Desktop/Sitio Alimentate Sano/noticia_2014_noviembre_29_14.php",
-		"/Users/upmedia/Desktop/Sitio Alimentate Sano/receta_de_la_semana_48.php",
-		"/Users/upmedia/Desktop/Sitio Alimentate Sano/noticia_2014_octubre_11_10.php"
+		"/Users/upmedia/Desktop/Sitio Alimentate Sano/noticia_2014_diciembre_09_14.php"
 	],
 	"find":
 	{
@@ -554,6 +538,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"casa de ",
 			";}\n",
 			"container",
 			"intro-content",
@@ -680,8 +665,7 @@
 			">\n",
 			"boxShareMin",
 			"h1.tit",
-			"bg-complementario-dos",
-			"box"
+			"bg-complementario-dos"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -699,23 +683,23 @@
 	"groups":
 	[
 		{
-			"selected": 2,
+			"selected": 1,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "dri/index.php",
+					"file": "dri/single-abogados.php",
 					"settings":
 					{
-						"buffer_size": 7359,
+						"buffer_size": 4052,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1440,
-								1440
+								2658,
+								2658
 							]
 						],
 						"settings":
@@ -727,90 +711,25 @@
 							"word_wrap": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 579.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 1,
-					"file": "dri/page.php",
-					"settings":
-					{
-						"buffer_size": 1445,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								750,
-								750
-							]
-						],
-						"settings":
-						{
-							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai.tmTheme",
-							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"translate_tabs_to_spaces": false,
-							"word_wrap": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "dri/single-abogados.php",
-					"settings":
-					{
-						"buffer_size": 3037,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1396,
-								1396
-							]
-						],
-						"settings":
-						{
-							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai.tmTheme",
-							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true,
-							"word_wrap": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 169.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				}
-			]
-		},
-		{
-			"selected": 3,
-			"sheets":
-			[
-				{
-					"buffer": 3,
 					"file": "dri/style.css",
 					"settings":
 					{
-						"buffer_size": 40142,
+						"buffer_size": 42008,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								12810,
-								12810
+								29265,
+								29265
 							]
 						],
 						"settings":
@@ -822,114 +741,55 @@
 							"word_wrap": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 3531.0,
+						"translation.y": 6513.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
-					"buffer": 4,
-					"file": "dri/page-abogados.php",
-					"settings":
-					{
-						"buffer_size": 3353,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								588,
-								588
-							]
-						],
-						"settings":
-						{
-							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai.tmTheme",
-							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true,
-							"word_wrap": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 10.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 5,
-					"file": "dri/header.php",
-					"settings":
-					{
-						"buffer_size": 5477,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai.tmTheme",
-							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 6,
-					"file": "dri/header-insider.php",
-					"settings":
-					{
-						"buffer_size": 4029,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								2934,
-								2934
-							]
-						],
-						"settings":
-						{
-							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai.tmTheme",
-							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true,
-							"word_wrap": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 7,
+					"buffer": 2,
 					"file": "dri/page-areaspractica.php",
 					"settings":
 					{
-						"buffer_size": 4260,
+						"buffer_size": 4242,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								516,
-								516
+								3766,
+								3766
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai.tmTheme",
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 699.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "dri/page-abogados.php",
+					"settings":
+					{
+						"buffer_size": 3335,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2769,
+								2769
 							]
 						],
 						"settings":
@@ -940,6 +800,34 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 1.0,
+						"translation.y": 669.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "dri/page.php",
+					"settings":
+					{
+						"buffer_size": 1433,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								465,
+								465
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false,
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
@@ -965,18 +853,11 @@
 				0,
 				1,
 				1
-			],
-			[
-				1,
-				0,
-				2,
-				1
 			]
 		],
 		"cols":
 		[
 			0.0,
-			0.482060206135,
 			1.0
 		],
 		"rows":
